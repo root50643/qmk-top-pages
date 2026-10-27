@@ -1,0 +1,16 @@
+{
+    "company": "AJAZZMOUSE",
+    "displayName": "AJAZZ Driver (R)",
+    "productName": "AJAZZ Driver (R)",
+    "appendV4ToDriverName": true,
+    "language": [
+        "英语",
+        "中文简体",
+        "日语",
+        "俄语"
+    ],
+   "currentLanguage": "中文简体",
+    "shieldCommunitys": [
+        "img"
+    ]
+}

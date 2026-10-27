@@ -1,0 +1,1 @@
+import{CommonDongle as e}from"./9a3b31e3.js";import"./index.91333ef6.js";import"./4277b510.js";import"./de3119a2.js";class i extends e{getDeviceIsBoot=async()=>!0;getUSBVersion=async()=>0;getRFVersion=async()=>0}export{i as Donglehelp};

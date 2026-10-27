@@ -1,0 +1,1 @@
+import{CommonMsNRF54L as m}from"./39d26a15.js";import"./index.91333ef6.js";import"./f90c2d12.js";class s extends m{defaultMatrix=[1,0,240,0,1,0,241,0,1,0,242,0,1,0,244,0,1,0,243,0,10,5,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,249,1,1,0,249,255,1,0,245,1,1,0,245,255]}export{s as Mouse_ry6601_frm_3311_3m_1k};

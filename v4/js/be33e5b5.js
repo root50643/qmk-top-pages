@@ -1,0 +1,1 @@
+import{ao as m}from"./index.91333ef6.js";import{C as n}from"./b8ff3721.js";class i extends n{upgrade=async(e,o)=>{o(0);const t=new m(this.deviceType),s=await t.upgrade_usb(e,65536,10,o);return t.destory(),o(1),s}}export{i as C};

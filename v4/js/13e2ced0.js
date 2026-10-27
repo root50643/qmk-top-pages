@@ -1,0 +1,1 @@
+import{C as o}from"./f48449be.js";import"./b8ff3721.js";import"./index.91333ef6.js";import"./4277b510.js";import"./de3119a2.js";class m extends o{getUSBVersion=async()=>0;getRFVersion=async()=>0;getDeviceIsBoot=async()=>!0}export{m as Pan108KBRFHelp};

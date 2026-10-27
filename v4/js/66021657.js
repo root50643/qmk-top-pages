@@ -1,0 +1,1 @@
+import{aw as r}from"./index.91333ef6.js";import{_ as a}from"./5a6086c7.js";import{f as o}from"./78cc9fab.js";const m=o(r(a).Keyboard_64_GK8145G_KeyMappings);export{m as Keyboard_64_GK8145G_FirmwareUpgrade};

@@ -1,0 +1,1 @@
+import{CommonMsNRF54L as _}from"./39d26a15.js";import"./index.91333ef6.js";import"./f90c2d12.js";class t extends _{defaultMatrix=[1,0,240,0,1,0,241,0,1,0,242,0,1,0,244,0,1,0,243,0,20,0,0,0,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,249,1,1,0,249,255,1,0,245,1,1,0,245,255]}export{t as nrf54l15_xmg_m37_3950_54l_8k_8k_led_screen_mouse_v800};
